@@ -12,7 +12,7 @@ There are two ways to use these bots:
 
 
 ## Developing
-Clone this repository and put it on 'game/dota/scripts/vscripts/'.
+Clone this repository and put it on `game/dota/scripts/vscripts/`.
 
 
 ## Benchmarking
@@ -23,7 +23,10 @@ Clone this repository and put it on 'game/dota/scripts/vscripts/'.
 
 
 ## Discuss
-The prefered sources of feedback for this repository are its [issues](https://github.com/littlebrat/dota-bots/issues), the [dota dev forum for scripting](http://dev.dota2.com/forumdisplay.php?f=497) and
-[dota subreddit](https://www.reddit.com/r/DotA2/).
+The preferred sources of feedback for this repository are its
+[issues](https://github.com/littlebrat/dota-bots/issues), the
+[DotA2 Dev Forum for scripting](http://dev.dota2.com/forumdisplay.php?f=497) and
+[DotA2 subreddit](https://www.reddit.com/r/DotA2/).
 
-I can also answer any question by [email](gugas93@hotmail.com).
+I can also answer any question by [email](gugas93@hotmail.com) or
+[telegram](https://telegram.me/theminiman).
