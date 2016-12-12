@@ -10,6 +10,9 @@ There are two ways to use these bots:
 - Download the latest release of this repository and put its contents on
 `game/dota/scripts/vscripts/`.
 
+## Running
+Always leave the console open to check if things are running as they should.
+Make a custom lobby and put it on the desired mode.
 
 ## Developing
 Clone this repository and put it on `game/dota/scripts/vscripts/`.
