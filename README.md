@@ -18,6 +18,7 @@ You can now choose on the dropdown menu of `Radiant/Dire bots` the local dev scr
 
 ## Developing
 Clone this repository and put it on `game/dota/scripts/vscripts/`.
+In order to get started into Lua programming, you can follow this [reference](https://learnxinyminutes.com/docs/lua/).
 
 ## Benchmarking
 
