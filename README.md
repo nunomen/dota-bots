@@ -19,9 +19,11 @@ You can now choose on the dropdown menu of `Radiant/Dire bots` the local dev scr
 ## Developing
 Clone this repository and put it on `game/dota/scripts/vscripts/`.
 
-
 ## Benchmarking
 
+
+## Getting started on game A.I.
+- [The AI Programmer's Bookshelf ](http://alumni.media.mit.edu/~jorkin/aibooks.html)
 
 
 ## Contributing
