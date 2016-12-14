@@ -7,12 +7,14 @@ in order to have functional, harder and challenging DotA bots.
 ## Installing
 There are two ways to use these bots:
 - Subscribe to this workshop package.
-- Download the latest release of this repository and put its contents on
+- Download the latest release of this repository and put the `bots` directory (it is important you don't change the name of this directory) on
 `game/dota/scripts/vscripts/`.
 
 ## Running
 Always leave the console open to check if things are running as they should.
-Make a custom lobby and put it on the desired mode.
+Make a custom lobby on the local host and check the `Fill empty slots with bots` option.
+Then, choose a bot's difficulty that is different from `None`.
+You can now choose on the dropdown menu of `Radiant/Dire bots` the local dev script option to activate your bots.
 
 ## Developing
 Clone this repository and put it on `game/dota/scripts/vscripts/`.
