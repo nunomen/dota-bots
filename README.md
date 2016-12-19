@@ -18,7 +18,9 @@ You can now choose on the dropdown menu of `Radiant/Dire bots` the local dev scr
 
 ## Developing
 Clone this repository and put it on `game/dota/scripts/vscripts/`.
-The available API documenting the method's signatures is available [here](http://docs.moddota.com/lua_bots/)
+
+The programming interface documenting the method's signatures is available [here](http://docs.moddota.com/lua_bots/).
+
 In order to get started into Lua programming, you can follow this [reference](https://learnxinyminutes.com/docs/lua/).
 
 ## Benchmarking
