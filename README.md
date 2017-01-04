@@ -29,6 +29,8 @@ In order to get started into Lua programming, you can follow this [reference](ht
 ## Getting started on game A.I.
 - [The AI Programmer's Bookshelf ](http://alumni.media.mit.edu/~jorkin/aibooks.html)
 
+## Other Bots
+https://www.reddit.com/r/DotA2/comments/5lyk8l/pubsimulator_new_bots_for_dota_2/
 
 ## Contributing
 
