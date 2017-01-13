@@ -30,14 +30,17 @@ In order to get started into Lua programming, you can follow this [reference](ht
 - [The AI Programmer's Bookshelf ](http://alumni.media.mit.edu/~jorkin/aibooks.html)
 
 ## Other Bots
+- [Dota 2 Bot Full-Overwrite Project](https://github.com/Nostrademous/Dota2-FullOverwrite)
 - [PubSimulator](https://www.reddit.com/r/DotA2/comments/5lyk8l/pubsimulator_new_bots_for_dota_2/)
 - [Meepo & Puck](https://www.reddit.com/r/dota2AI/comments/5kiq8e/meepo_bot_puck_bot_junglingstacking/)
 - [Ruoyu Sun's Bots](https://github.com/furiouspuppy/Dota2_Bots)
 - [Ruoyu Sun's blog post](http://ruoyusun.com/2017/01/08/dota2-ai-quickstart.html)
 - [lenLRX bots](https://github.com/lenLRX/dota2Bots)
 
-## Contributing
+## Bot Developing Tools
+- [Bot Interactive Console](https://github.com/Keithenneu/dota2comm/tree/master/interactiveConsole)
 
+## Contributing
 
 ## Discuss
 The preferred sources of feedback for this repository are its
