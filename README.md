@@ -36,6 +36,7 @@ In order to get started into Lua programming, you can follow this [reference](ht
 - [Ruoyu Sun's Bots](https://github.com/furiouspuppy/Dota2_Bots)
 - [Ruoyu Sun's blog post](http://ruoyusun.com/2017/01/08/dota2-ai-quickstart.html)
 - [lenLRX bots](https://github.com/lenLRX/dota2Bots)
+- [DQN Dota implementation](https://github.com/HamidMoghaddam/dota2dqn)
 
 ## Bot Developing Tools
 - [Bot Interactive Console](https://github.com/Keithenneu/dota2comm/tree/master/interactiveConsole)
